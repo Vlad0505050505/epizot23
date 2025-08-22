@@ -1,12 +1,1 @@
-{
-  "events": [
-    {
-      "title": "A new event",
-      "image": "https://cdn.muenchen-p.de/fl_progressive,q_65/.imaging/stk/responsive/teaser300/dms/va-2016/muenchner-christkindlmarkt/christkindlmarkt-marienplat-logo-hp/document/christkindlmarkt-marienplat-logo-hp.jpg",
-      "date": "2022-10-01",
-      "description": "Some awesome event!",
-      "id": "2a42fcc4-ea21-4bdd-abf6-c40006dc66a9"
-    }
-  ],
-  "users": []
-}
+{"events":[{"title":"ssss","image":"https://sinoptik.ua/resources/icons/d300-cfde.webp","date":"2025-07-29","description":"sssaaa","id":"1f27f532-1a55-4998-9b9f-88262cbac392"}],"users":[{"email":"1998gti@gmail.com","password":"$2a$12$zG4JM7oVqdSmVJGLTvX1TOLjXnkeswIzV5DypFN.CXMI7OyY.9wdG","id":"ab6021af-45c9-4902-afb1-f8645c1f9511"},{"email":"saacs@gam.com","password":"$2a$12$eQhelQBLm34gkOECZfjAFek073EuYGkE/LB1whI0wuCB7XZ8sHb4C","id":"0fcbba78-c82a-4eed-82ea-ede9f3fea120"},{"email":"1998gti@gmail.comc","password":"$2a$12$0WXum6pfPfbBeI2jiyqEUecwLMRTamxQHGeefQJgm7fSXZx013wI.","id":"55abc274-0123-496f-bb5b-4e3438059cac"},{"email":"saacs@gam.com11","password":"$2a$12$zoWViQ.hBwxilyuek46op.BG2B1jy5IQFTzVhG.XApoIjOUj9HO8C","id":"0aa05a27-7b69-4c8f-ac5a-ca0a170217e5"}]}
